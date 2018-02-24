@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "688126059109",
+    "firebase_url": "https://snapclone-9d998.firebaseio.com",
+    "project_id": "snapclone-9d998",
+    "storage_bucket": "snapclone-9d998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688126059109:android:f104ee1be2cd4fc9",
+        "android_client_info": {
+          "package_name": "com.example.japjot.snapclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688126059109-lqkl9tssurhvr373kfvc4tnq1ej5oh79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.japjot.snapclone",
+            "certificate_hash": "5f6748ca429118d7441528b7179dfe12033712cc"
+          }
+        },
+        {
+          "client_id": "688126059109-b26vd36kigmdngkl6duefda9pess10t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLIk3XHEjhO0LbmEr2cbVf3ewwQOgLkJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688126059109-b26vd36kigmdngkl6duefda9pess10t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
